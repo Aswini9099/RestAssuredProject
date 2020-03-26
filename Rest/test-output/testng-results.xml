@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12519" started-at="2020-03-26T08:26:02Z" finished-at="2020-03-26T08:26:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12519" started-at="2020-03-26T08:26:02Z" finished-at="2020-03-26T08:26:14Z">
+      <class name="restAsuured.RestAssuredMethodsTest">
+        <test-method status="PASS" signature="config()[pri:0, instance:restAsuured.RestAssuredMethodsTest@1753acfe]" name="config" is-config="true" duration-ms="406" started-at="2020-03-26T13:56:02Z" finished-at="2020-03-26T13:56:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="deleteResource1Test()[pri:0, instance:restAsuured.RestAssuredMethodsTest@1753acfe]" name="deleteResource1Test" duration-ms="4143" started-at="2020-03-26T13:56:02Z" finished-at="2020-03-26T13:56:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteResource1Test -->
+        <test-method status="PASS" signature="getAllDetails()[pri:0, instance:restAsuured.RestAssuredMethodsTest@1753acfe]" name="getAllDetails" duration-ms="953" started-at="2020-03-26T13:56:06Z" finished-at="2020-03-26T13:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllDetails -->
+        <test-method status="PASS" signature="getUnavailableResourceDetail()[pri:0, instance:restAsuured.RestAssuredMethodsTest@1753acfe]" name="getUnavailableResourceDetail" duration-ms="943" started-at="2020-03-26T13:56:07Z" finished-at="2020-03-26T13:56:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUnavailableResourceDetail -->
+        <test-method status="PASS" signature="postDuplicateResources()[pri:0, instance:restAsuured.RestAssuredMethodsTest@1753acfe]" name="postDuplicateResources" duration-ms="1156" started-at="2020-03-26T13:56:08Z" finished-at="2020-03-26T13:56:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postDuplicateResources -->
+        <test-method status="PASS" signature="getOneDetail()[pri:1, instance:restAsuured.RestAssuredMethodsTest@1753acfe]" name="getOneDetail" duration-ms="562" started-at="2020-03-26T13:56:09Z" finished-at="2020-03-26T13:56:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOneDetail -->
+        <test-method status="PASS" signature="postResources()[pri:2, instance:restAsuured.RestAssuredMethodsTest@1753acfe]" name="postResources" duration-ms="1315" started-at="2020-03-26T13:56:10Z" finished-at="2020-03-26T13:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postResources -->
+        <test-method status="PASS" signature="patchResources()[pri:3, instance:restAsuured.RestAssuredMethodsTest@1753acfe]" name="patchResources" duration-ms="1056" started-at="2020-03-26T13:56:11Z" finished-at="2020-03-26T13:56:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patchResources -->
+        <test-method status="PASS" signature="putResources()[pri:4, instance:restAsuured.RestAssuredMethodsTest@1753acfe]" name="putResources" duration-ms="984" started-at="2020-03-26T13:56:12Z" finished-at="2020-03-26T13:56:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putResources -->
+        <test-method status="PASS" signature="deleteResourceTest()[pri:5, instance:restAsuured.RestAssuredMethodsTest@1753acfe]" name="deleteResourceTest" duration-ms="1344" started-at="2020-03-26T13:56:13Z" finished-at="2020-03-26T13:56:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteResourceTest -->
+      </class> <!-- restAsuured.RestAssuredMethodsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
